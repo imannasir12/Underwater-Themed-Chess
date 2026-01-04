@@ -14,7 +14,7 @@ Both modes bring the classic game of chess to life with stunning visuals and smo
 
 ## Features
 - Custom-designed underwater-themed chess pieces and board.
-- Single Player mode with AI.
+- Single Player mode.
 - Two Player mode for local multiplayer.
 - Smooth and responsive game mechanics.
 - Immersive oceanic design that adds a creative twist to traditional chess.
